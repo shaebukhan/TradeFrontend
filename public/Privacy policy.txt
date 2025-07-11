@@ -1,0 +1,113 @@
+Privacy policy
+-----------------------------
+
+Privacy notice
+The regulations on the “protection of natural persons with regard to the processing of personal data and on the free movement of such data”, known as GDPR, contain a series of rules aiming to ensure that the processing of personal data takes place in compliance with the rights and fundamental freedoms of people.
+
+This notice is designed to inform you how we have implemented GDPR and make you aware of the rights available to you.
+
+Section 1 - Identity and contact details of the data controller
+Premier Quantitative Strategies Fund SP, a Limited Company registered in the Cayman Islands and regulated by the Cayman Islands Monetary Authority (CIMA), its capacity as Data Controller (“ESLJ” or the “Data Controller”) processes your personal data (the “Personal Data”) for the purposes indicated in Section 3.
+
+Section 2 - Contact details of the data protection officer
+The Compliance Officer at PQS FUND SP is responsible for managing all issues relating to the processing of your Personal Data and/or to exercise your rights provided by the GDPR, should you wish to do so, please contact the Compliance Officer at the following e-mail address: compliance@pqs.fund
+
+Section 3 - Categories of personal data, purposes and legal basis of the processing
+Categories of Personal Data
+Included among the Personal Data that the PQS FUND SP processes, by way of example, are biographical data, data acquired from payment instructions, data deriving from installing and using the PQS FUND SP's Apps (including geographical location data, data deriving from web services etc.).
+
+Purpose and legal basis of the processing
+The Personal Data that concern you, which you communicated to the  or PQS FUND SP collected from third party subjects (in the latter case the compliance with the law and regulations by the third parties shall be duly verified), are processed by the PQS FUND SP as part of its business activity for the following purposes:
+
+a) Providing services and performing contracts
+The submission of your Personal Data needed to provide the services requested and perform the contracts (including the steps to be taken prior to entering into a contract) is not mandatory, but refusal to provide this Personal Data do not allow the PQS FUND SP to fulfil the relevant requests.
+
+b) Complying with the provisions of national and EU legislation
+The processing of your Personal Data, in order to comply with the regulatory provisions is mandatory and your consent is not required. The processing is mandatory, for example, when it is required by anti-money laundering, taxation, anticorruption, fraud prevention regulations in the payment services or to fulfil instructions or requests of the supervisory and control authority.
+
+c) Legitimate interest of the Data Controller
+The processing of your Personal Data is necessary to pursue a legitimate interest of PQS FUND SP, namely:
+- to prevent fraud;
+- to acquire images and videos relating to the closed-circuit-television (CCTV) system for security purposes;
+- to pursue any and additional legitimate interests.
+
+In the latter case, the PQS FUND SP may process your Personal Data only after having informed you and having ascertained that achieving its legitimate interests, or those of third parties, does not override your fundamental rights and freedoms. In these cases, your consent is not required.
+
+Section 4 - Categories of recipients to whom your personal data may be communicated
+To achieve the purposes indicated above, it might be necessary for PQS FUND SP to communicate your Personal Data to the following categories of recipients:
+
+1) Matco trust company that manages the IT system and some administrative, legal and accounting services.
+
+2) Third parties (companies, freelancers, etc.) operating within and outside the European Union and that may process your Personal Data as part of:
+- recording the financial risks for the purpose of preventing and controlling the risk of insolvency;
+- credit recovery and related activities;
+- providing and managing procedures and IT systems;
+- security and CCTV management services;
+- managing communication with customers, as well as the storage of data and documents, whether in paper or electronic form; and
+- recording of service quality, market research, information and commercial promotion of its products and/or services.
+
+3) Authorities (e.g. judicial, administrative etc.) and public information systems established at public administrations, such as, for example, such as, for example, HMRC in the UK.
+
+PQS FUND SP and the third parties your Personal Data may be communicated to, act as:
+1) Data Controllers, i.e. subjects which determine the purposes and means of the Personal Data processing;
+2) Data Processors, i.e. subjects which process the Personal Data on behalf of the Controller or
+3) Joint Data Controllers, which determine, together with the ESLJ, the relevant purposes and means.
+
+The updated list of the subjects identified as Data Controllers, Data Processors or Joint Data Controllers is available at the PQS FUND SP office or upon specific written request.
+
+Section 5 - Transferring personal data to a third country or to an international organisation outside the European Union.
+For the avoidance of doubt, your Personal Data is processed by ESLJ in the UK -which is outside of the European Union. However appropriate safeguards are in place to ensure that all Personal Data processed outside of the European Union either within the UK or another “third-country” is based on “adequacy” decisions of the European Commission.
+
+Personal Data contained in messages regarding financial transfers may be provided, for the exclusive purpose of preventing and fighting terrorism and its financing, to the public authorities of the United States of America.2
+
+Section 6 - processing method and personal data retention time
+Your Personal Data will be processed using manual, electronic and telematic tools and in a way that ensures its security and confidentiality.
+
+In particular, your Personal Data are generally retained for a time period of 10 years, starting from the end of the contractual relationship you are part of. Likewise, the Personal Data may be processed for a longer time, should an act that interrupts and/or suspends the course of the term occur, entailing an extension of the data retention, or if such longer retention is considered necessary for legitimate business interests.
+
+Section 7 - Rights of the data subject
+In your capacity as Data subject, you may exercise, at any time towards the Data Controller, the rights provided by the Regulation listed below, by sending a specific request in writing to the e-mail address compliance@pqs.fund
+
+Any communications and actions undertaken by the PQS FUND SP in connection with exercising the rights listed below, will be made free of charge. However, if your requests are manifestly unfounded or excessive, in particular due to their repetitive character, PQS FUND SP may charge you a fee, taking into account the administrative costs incurred, or refuse to act on your requests.
+
+1. Right of access
+You can obtain from the PQS FUND SP confirmation as to whether or not your Personal Data are being processed and, where that is the case, to obtain access to the Personal Data and the information envisaged under art. 15 of the Regulation, among which, by way of example: the purposes of the processing, the categories of Personal Data concerned etc.
+
+Where Personal Data are transferred to a third country or to an international organisation, you have the right to be informed of the appropriate safeguards relating to the transfer, as provided in Section 5.
+
+If requested, PQS FUND SP shall provide you with a copy of the Personal Data undergoing processing. For any further copies requested, the PQS FUND SP may charge you a reasonably fee based on the administrative costs. If the request is submitted by electronic means, and unless otherwise requested, the information shall be provided by the PQS FUND SP in a commonly used electronic form.
+
+2. Right to rectification
+You may obtain from PQS FUND SP the rectification of your Personal Data that are inaccurate as well as, taking into account the purpose of the processing, their integration, if the data are incomplete, by providing a supplementary statement.
+
+3. Right to erasure
+You may obtain from the Data Controller the erasure of your Personal Data, if one of the reasons provided by art. 17 of the Regulation occurs, including, by way of example, whether the Personal Data are no longer necessary in relation to the purposes for which they were collected or otherwise processed or if the consent on which the processing of your Personal Data is based was withdrawn by you or there is no other legal ground for the processing.
+
+We hereby inform you that PQS FUND SP may not erase your Personal Data: if their processing is necessary, for example, to comply with a legal obligation, for reasons of public interest, for the establishment, exercise or defence a legal claim.
+
+4. Right to restriction of processing
+You may obtain the restriction of your Personal Data if one of the cases provided by art. 18 of the Regulation applies, among which, for example:
+- should the accuracy of your Personal Data be contested by you for a period enabling the Controller to verify the accuracy of the Personal Data; or
+- the data subject has objected to processing, pending the verification whether the legitimate grounds of the Controller override those of the data subject.
+
+5. Right to data portability
+If the processing of your Personal Data is based on the consent or is necessary for the performance of a contract or to take steps prior to enter into a contract and the processing is carried out by automated means, you may:
+- request to receive the Personal Data provided by you in a structured, commonly used and machine readable format (e.g.: a computer and/or tablet); and
+- transmit your Personal Data to another Data Controller without hindrance from the PQS FUND SP.
+
+In the latter case, you shall provide PQS FUND SP with the exact details of the new data controller to whom you intend to transmit your Personal Data, providing PQS FUND SP with a written authorisation.
+
+6. Right to object
+You may object at any time to the processing of Personal Data if the processing is carried out for the performance of a task carried out in the public interest or is necessary for the purposes of the legitimate interest of the Data Controller (including profiling).
+
+Should you decide to exercise the right to object, PQS FUND SP will abstain from further processing your Personal Data, unless compelling legitimate grounds for the processing occur (grounds which override the interests, rights and freedoms of the data subject), or the processing is necessary for the establishment, exercise or defence of legal claims.
+
+7. Right to lodge a complaint with the Data Protection Authority
+Notwithstanding your right to appeal to any other administrative or jurisdictional court, should you deem that the processing of your Personal Data takes place in breach of the GDPR, you may lodge a complaint with the Information Commissioner’s Office:
+
+https://ico.org.uk/concerns/
+
+Declaration for legal persons, entities or associations
+PQS FUND SP hereby informs you that the use of automated systems for calling or communicating a call without the intervention of an operator and electronic communications (e-mail, telefax, SMS, MMS or other) for carrying out promotional or market research activities is permitted only with the consent of the entities that are parties to an electronic communication services supply contract (“contracting parties”: this definition also includes legal persons, entities or associations).
+
+The pursuit of such activities toward these parties requires a specific consent.

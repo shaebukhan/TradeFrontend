@@ -1,0 +1,124 @@
+/* Container for the whole login form */
+.mt-top {
+    margin-top: 100px;
+}
+
+.reg-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.reg-sub {
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+}
+
+.reg-right {
+    width: 100%;
+}
+
+/* Style the form labels */
+.form-label {
+    font-weight: 600;
+    margin-bottom: 8px;
+    display: block;
+    color: #333;
+}
+
+/* Input field styles */
+.login-inp {
+    width: 100%;
+    padding: 12px 16px;
+    margin-bottom: 16px;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #fafafa;
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+/* Focus state for input fields */
+.login-inp:focus {
+    border-color: #1890ff;
+    box-shadow: 0 0 3px rgba(24, 144, 255, 0.4);
+    background-color: #fff;
+}
+
+/* Toggle button for password visibility */
+.toggle-btn {
+    position: absolute;
+    right: 15px;
+    top: 52px;
+    cursor: pointer;
+    color: #888;
+    font-size: 18px;
+    transition: all 0.3s ease;
+}
+
+.toggle-btn:hover {
+    color: #1890ff;
+}
+
+/* Styling for the submit button */
+.login-sub {
+    width: 100%;
+    background-color: #1890ff;
+    border: none;
+    padding: 12px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.login-sub:hover {
+    background-color: #40a9ff;
+}
+
+.login-sub:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+/* Additional styling for a consistent layout */
+.auth-inp-main {
+    position: relative;
+    margin-bottom: 16px;
+}
+
+/* Style for center-aligned buttons and content */
+.text-center {
+    text-align: center;
+}
+
+/* Button hover and active states */
+.login-sub-c:hover {
+    background-color: #3b8cde;
+}
+
+/* Media Queries for responsiveness */
+@media (max-width: 768px) {
+    .reg-main {
+        height: auto;
+        padding: 20px;
+    }
+
+    .reg-sub {
+        width: 100%;
+        padding: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .reg-sub {
+        padding: 20px;
+    }
+}
